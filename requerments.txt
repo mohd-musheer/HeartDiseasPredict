@@ -2,8 +2,4 @@ pandas
 numpy
 scikit-learn
 joblib
-
-
-
-
 fast api
