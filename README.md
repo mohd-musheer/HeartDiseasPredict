@@ -16,10 +16,6 @@ Dataset: `data/heart_disease.csv`
 
 ## 🚀 Project Structure
 
-
-
-
-
     user_input = pd.DataFrame([[d.Age, d.Sex, d.ChestPainType, d.RestingBP, d.Cholesterol, d.FastingBS, d.RestingECG, d.MaxHR, d.ExerciseAngina, d.Oldpeak, d.ST_Slope, d.NumMajorVessels, d.Thalassemia]],columns=[
     "Age","Sex","ChestPainType","RestingBP","Cholesterol","FastingBS","RestingECG",
     "MaxHR","ExerciseAngina","Oldpeak","ST_Slope","NumMajorVessels","Thalassemia"])
